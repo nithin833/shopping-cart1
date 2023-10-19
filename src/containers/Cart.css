@@ -1,0 +1,35 @@
+
+.cart-container {
+    background-color:black;
+    padding: 20px;
+    border: 3px solid #ddd;
+    margin: 10px;
+  }
+  
+  /* Style for the headings */
+  h2 {
+    margin-left: 40px;
+    font-size: 20px;
+    color: red;
+    text-align: left;  
+  }
+  
+  /* Style for the list items */
+  li {
+    margin-bottom: 10px;
+    list-style-type: none; /* Remove the bullet point */
+    text-align: left;      /* Set the text alignment to left (this is the default) */
+  }
+  
+  /* Style for the "Remove" button */
+  button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  body {
+    background-size: cover; /* Adjust to your preferences */
+    background-repeat: no-repeat;
+  }

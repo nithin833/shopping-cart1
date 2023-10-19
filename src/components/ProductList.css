@@ -1,0 +1,70 @@
+
+
+.product-list-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .product-list-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .product-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .product-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: #fff;
+    border-radius: 5px;
+  }
+  
+  .product-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .product-name {
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .product-price {
+    color: #3ac44e;
+    margin-top: 5px;
+  }
+  
+  .add-to-cart-button {
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  li {
+    margin-bottom: 10px;
+    list-style-type: none; /* Remove the bullet point */
+    text-align: left;      /* Set the text alignment to left (this is the default) */
+  }
+  
+  h2 {
+    margin-left: 40px;
+    font-size: 20px;
+    color: red;
+    text-align: left;  
+  }
+  
